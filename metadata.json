@@ -1,0 +1,6 @@
+{
+  "name": "MobOps Fleet Administration",
+  "description": "Advanced real-time remote device management, fleet administration, live telemetry, terminal operations, file systems, and enterprise deployment suite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
